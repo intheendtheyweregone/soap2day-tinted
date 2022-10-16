@@ -1,0 +1,217 @@
+  :root
+  {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body
+  {
+    background: #121212 !important;
+  }
+
+  div.col-lg-6.col-sm-6 > div.myp1
+  {
+    background: #1e1e1e !important;
+  }
+
+  h3 img
+  {
+    visibility: hidden;
+  }
+
+  h3:before
+  {
+    content: "SOAP2DAY";
+    font-weight: 700;
+    color: #789e44;
+    letter-spacing: 12;
+  }
+
+  div.panel-body
+  {
+    color: #ffffff;
+  }
+
+  .img:before
+  {
+    visibility: hidden;
+  }
+
+  h4.panel-title a
+  {
+    color: #ffffff !important;
+  }
+
+  .panel-info > .panel-heading
+  {
+    border-radius: 15px;
+  }
+
+  .panel-info
+  {
+    border-radius: 15px;
+  }
+
+  .panel-info > .panel-heading
+  {
+    color: #ffffff !important;
+    font-weight: 700;
+  }
+
+  .panel-info > .panel-heading
+  {
+    background-color: #789e44 !important;
+  }
+
+  .panel-info > .panel-heading
+  {
+    border-color: #789e44 !important;
+  }
+
+  .panel
+  {
+    background-color: #00000000 !important;
+  }
+
+  .form-control
+  {
+    background-color: #1e1e1e !important;
+    color: #ffffff;
+    border: 1px solid #96494900 !important;
+    margin-left: 60px !important;
+  }
+
+  .bg-select
+  {
+    background-color: #3F3F46 !important;
+  }
+
+  .pagination a
+  {
+    background: #1e1e1e !important;
+    border-color: #3F3F46 !important;
+  }
+
+  .pagination .active span
+  {
+    border-color: #1e1e1e !important;
+  }
+
+  .pagination .disabled span
+  {
+    border-color: #1e1e1e !important;
+  }
+
+  li span
+  {
+    background: #1e1e1e !important;
+  }
+
+  /* hides the arrow icon next to the search bar, not necessary really unless for accessibility reasons ig */
+  button.btn-info
+  {
+    visibility: hidden;
+  }
+
+  div.hidden-xs
+  {
+    visibility: hidden;
+  }
+
+  div.loginbar
+  {
+    visibility: hidden;
+    display: none;
+  }
+
+  div.img-group img
+  {
+    border-radius: 8px;
+  }
+
+  .thumbnail
+  {
+    background-color: #121212 !important;
+  }
+
+  .alert-info-ex
+  {
+    color: #ffffff !important;
+    background-color: #789e44 !important;
+    border-color: #1e1e1e !important;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .alert-info
+  {
+    color: #ffffff !important;
+    background-color: #789e44 !important;
+    border-color: #1e1e1e !important;
+  }
+
+  .panel-info
+  {
+    border-color: #212122 !important;
+  }
+
+  .label.label-info
+  {
+    background-color: #789e44 !important;
+    color: #ffffff !important;
+  }
+
+  .alert-warning
+  {
+    color: #fff !important;
+    background-color: #1e1e1e !important;
+    border-color: #212122 !important;
+  }
+
+  element.style
+  {
+    /* height: 33px; */
+    /* display: inline; */
+    background-color: #00000000;
+  }
+
+  .navbar-default
+  {
+    background-color: #789e44 !important;
+    border-radius: 7px;
+    border-color: #1e1e1e !important;
+    font-size: 15px;
+    padding: 2px 2px;
+  }
+
+  .navbar-default .navbar-nav > li > a
+  {
+    color: #ffffff !important;
+  }
+
+  .navbar-default .navbar-brand
+  {
+    color: #ffffff !important;
+  }
+
+  div.alert.alert-info a
+  {
+    color: #ffffff !important;
+  }
+
+  div#btnSwitch
+  {
+    background: #789e44 !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+  }
+
+  div.alert a
+  {
+    color: #ffffff !important;
+  }
+
+  a
+  {
+    color: #789e44 !important;
+  }
